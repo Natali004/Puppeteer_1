@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^9.0.1",
+    "puppeteer": "^21.5.2"
+  },
+  "name": "puppeteer_1",
+  "version": "1.0.0",
+  "main": "gh.test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
